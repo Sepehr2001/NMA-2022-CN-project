@@ -8,5 +8,6 @@ We used data resulting from IBL Dataset, standardized mice training protocol. Th
 Learning speed was variable across mice and laboratories at the early stages of learning(the first 10-15 days), but once training was completed there were no significant differences in behavior across laboratories.
 The learning rate variety  across different labs attracted our attention to investigate the reason behind that diversity.That’s how we made our goal of study.
 Our research question was how ambient parameters can affect mice’s learning process and their decision making.The answer of this question requires a quantified how-model. Also , we thought  ambient parameters are more effective so we review  what is done about some of them in other experiments.
+
 ![image](https://user-images.githubusercontent.com/101628099/203226334-7ee3dab4-d632-42f0-9c77-d7691575ad15.png)
 
