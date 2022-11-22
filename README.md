@@ -12,5 +12,6 @@ Learning speed was variable across mice and laboratories at the early stages of 
 The learning rate variety  across different labs attracted our attention to investigate the reason behind that diversity.That’s how we made our goal of study.
 Our research question was how ambient parameters can affect mice learning process and their decision making.The answer of this question requires a quantified how-model.
 We extracted ambient variables, mice sex, mouse wise and lab wise performances and then impplemented our models.
+
 ![image](https://user-images.githubusercontent.com/101628099/203226334-7ee3dab4-d632-42f0-9c77-d7691575ad15.png)
 
