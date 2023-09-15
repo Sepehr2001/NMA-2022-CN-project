@@ -1,4 +1,4 @@
-# NMA-computational-Neuroscience-project-2022
+# NMA-2023-DL-project
 IBL dataset extraction
 You can access the colab notebook in NMA_Project_summer_2022.ipynb branch
 
