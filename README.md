@@ -1,6 +1,6 @@
 # NMA-2023-DL-project
 IBL dataset extraction
-You can access the colab notebook in NMA_Project_summer_2022.ipynb branch
+You can access the colab notebook in NMA_Project_summer_2022.ipynb notebook
 
 # Article link: 
 https://www.researchgate.net/publication/351714486_Standardized_and_reproducible_measurement_of_decision-making_in_mice
