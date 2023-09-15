@@ -2,6 +2,11 @@
 IBL dataset extraction
 You can access the colab notebook in NMA_Project_summer_2022.ipynb notebook
 
+## Project Detail
+
+![download1](https://github.com/Sepehr2001/NMA-2022-CN-project/assets/101628099/40d6f2be-d3e9-4a68-a0e0-d7841acb601f)
+
+
 # Article link: 
 https://www.researchgate.net/publication/351714486_Standardized_and_reproducible_measurement_of_decision-making_in_mice
 
