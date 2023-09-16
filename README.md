@@ -7,6 +7,9 @@ You can access the colab notebook in NMA_Project_summer_2022.ipynb notebook
 
 ![download1](https://github.com/Sepehr2001/NMA-2022-CN-project/assets/101628099/40d6f2be-d3e9-4a68-a0e0-d7841acb601f)
 
+## Coursework & Project Certificate
+
+ (https://portal.neuromatchacademy.org/certificate/50299930-4fe0-4c56-933b-ed25af01c7fd)
 
 ## Article link: 
 https://www.researchgate.net/publication/351714486_Standardized_and_reproducible_measurement_of_decision-making_in_mice
