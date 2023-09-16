@@ -24,3 +24,8 @@ Thus, We extracted ambient variables, mice sex, mouse wise and lab wise performa
 
 ![image](https://user-images.githubusercontent.com/101628099/203226334-7ee3dab4-d632-42f0-9c77-d7691575ad15.png)
 
+## Certificate
+
+![Portal-0](https://github.com/Sepehr2001/NMA-2022-CN-project/assets/101628099/3ec6d534-8206-4877-a229-044ff6b19f7f)
+
+
